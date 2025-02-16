@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "Play",
+                "label": "Terms and Conditions",
                 "altText": "Terms and Conditions",
                 "url": "/terms",
                 "showIcon": true,
