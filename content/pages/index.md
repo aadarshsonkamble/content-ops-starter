@@ -67,10 +67,12 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Comprehensive Digital Marketing Strategy
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          We craft data-driven campaigns that boost brand visibility,
+          engagement, and ROI through tailored strategies across SEO, social
+          media, and paid advertising.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
