@@ -290,7 +290,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Video editing
+    subtitle: goal
     text: >+
 
       Our creative team transforms raw footage into captivating visual stories.
