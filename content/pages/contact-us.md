@@ -8,12 +8,29 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
-      You may contact us using the information below: Merchant Legal entity
-      name: CutCraft Registered Address: Siddharth nagar, Dapodi, Pune Pune
-      MAHARASHTRA 411012 Operational Address: Siddharth nagar, Dapodi, Pune Pune
-      MAHARASHTRA 411012 Telephone No: 9970571976 E-Mail ID:
-      cutcraftllp\@gmail.com
+    text: |+
+      **Contact Information**
+
+      You may contact us using the details below:
+
+      **Merchant Legal Entity Name:**
+      CutCraft
+
+      **Registered Address:**
+      Siddharth Nagar, Dapodi, Pune,
+      Pune, Maharashtra 411012
+
+      **Operational Address:**
+      Siddharth Nagar, Dapodi, Pune,
+      Pune, Maharashtra 411012
+
+      **Telephone:**
+      9970571976
+
+      **Email ID:**
+      [cutcraftllp@gmail.com]()
+
+
 
     actions: []
     media:
