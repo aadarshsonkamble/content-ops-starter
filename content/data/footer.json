@@ -7,17 +7,7 @@
     "text": "\nCutCraft is a digital marketing and web development agency that empowers businesses with innovative strategies, custom websites, and cutting-edge automation solutions, including multi-platform bots.\n\n",
     "primaryLinks": {
         "title": "",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
