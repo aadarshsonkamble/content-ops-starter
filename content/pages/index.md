@@ -390,7 +390,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Quotes
     items:
       - title: >-
           "Marketing is the art of creating value through authentic connections.
