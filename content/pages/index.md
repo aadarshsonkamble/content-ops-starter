@@ -334,11 +334,14 @@ sections:
     subtitle: Increase your reach
     text: >+
 
+      CutCraft develops modern, responsive websites that are optimized for
+      performance and conversions.
+
+
+
       We design and build intelligent, multi-platform bots (including our
       signature Discord bot) that automate tasks, improve customer interactions,
-      and streamline your operations. Our custom bots are tailored to your
-      specific needs, helping you boost efficiency and engagement across various
-      platforms.
+      and streamline your operations
 
     actions:
       - label: Get started
