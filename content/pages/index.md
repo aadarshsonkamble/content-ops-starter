@@ -328,7 +328,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Web dev/ bot devlopment
+      text: Web dev / bot devlopment
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
