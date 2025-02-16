@@ -433,7 +433,7 @@ sections:
           "Marketing is the art of creating value through authentic connections.
           At CutCraft, we turn innovative ideas into powerful digital
           experiences that resonate and drive growth."
-        tagline: Testimonial 1
+        tagline: CEO
         subtitle: CutCraft
         text: ''
         image:
