@@ -430,8 +430,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Marketing is the art of creating value through authentic connections.
+          At CutCraft, we turn innovative ideas into powerful digital
+          experiences that resonate and drive growth."
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
