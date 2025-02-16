@@ -119,7 +119,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200% increase in customers
+      - title: 200% faster responses
         subtitle: Faster
         text: >+
           Creating fast, responsive, and custom websites aimed at driving
