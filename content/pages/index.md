@@ -239,7 +239,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Mission
     text: >+
 
       CutCraft’s mission is to empower businesses by transforming their digital
