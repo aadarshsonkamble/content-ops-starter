@@ -14,14 +14,6 @@
         "title": "Company",
         "links": [
             {
-                "label": "Terms and Conditions",
-                "url": "/terms",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Terms and Conditions",
                 "altText": "Terms and Conditions",
