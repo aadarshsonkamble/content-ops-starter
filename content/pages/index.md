@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 10x Growth
-        subtitle: The Job Stuff
+        subtitle: Expert Digital Marketing
         text: >+
           **Expert Digital Marketing**: Helping brands boost visibility and
           engagement while optimizing ad spending.
