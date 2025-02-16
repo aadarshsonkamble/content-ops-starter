@@ -14,12 +14,15 @@
         "title": "Company",
         "links": [
             {
+                "type": "Link",
                 "label": "Terms and Conditions",
-                "url": "/blog",
-                "icon": "arrowRight",
+                "altText": "Terms and Conditions",
+                "url": "/terms",
+                "showIcon": true,
+                "icon": "play",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
