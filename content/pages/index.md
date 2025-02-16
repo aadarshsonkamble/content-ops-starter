@@ -686,9 +686,17 @@ sections:
       - title: Enterprise Plan – Custom Pricing
         tagline: Custom
         subtitle: Description
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *   Tailored for established brands requiring a full-scale digital
+          marketing strategy.
+
+
+          *   Provides end-to-end services including in-depth analytics,
+          multi-channel advertising, content marketing, and dedicated account
+          management.
+
+
+
         image:
           altText: Placeholder image
           styles:
