@@ -73,7 +73,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       *Last updated: 2/16/2025*
 
