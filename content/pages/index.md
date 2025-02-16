@@ -121,10 +121,10 @@ sections:
         type: FeaturedItem
       - title: 200% increase in customers
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Creating fast, responsive, and custom websites aimed at driving
+          conversions.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
