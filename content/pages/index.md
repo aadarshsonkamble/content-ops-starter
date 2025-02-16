@@ -434,7 +434,7 @@ sections:
           At CutCraft, we turn innovative ideas into powerful digital
           experiences that resonate and drive growth."
         tagline: ''
-        subtitle: CutCraft
+        subtitle: 'CEO, CutCraft'
         text: ''
         image:
           url: /images/person-placeholder-light.png
