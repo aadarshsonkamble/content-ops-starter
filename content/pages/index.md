@@ -291,11 +291,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Our creative team transforms raw footage into captivating visual stories.
+      We provide professional video editing services that enhance your brand
+      message—whether it’s for promotional videos, social media content, or
+      corporate presentations—ensuring your audience stays engaged.
+
     actions: []
     media:
       title: Title of the video
