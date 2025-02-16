@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Contact Us",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
