@@ -74,8 +74,8 @@ sections:
       text: ''
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
-      *Last updated: \[Insert Date]*
+    text: >
+      *Last updated: 2/16/2025*
 
 
       Welcome to CutCraft. By accessing our website and using our services, you
@@ -174,9 +174,6 @@ sections:
 
       By using our website and services, you acknowledge that you have read,
       understood, and agree to be bound by these Terms and Conditions.
-
-
-
     actions: []
     badge:
       type: Badge
