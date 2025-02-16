@@ -616,7 +616,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Pricing
       color: text-primary
       styles:
         self:
