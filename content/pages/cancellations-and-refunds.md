@@ -11,11 +11,11 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: >+
+    text: >
       Cancellation Policy
 
 
-      *Last updated: \[Insert Date]*
+      *Last updated: 16/2/2025*
 
 
       At CutCraft, we are dedicated to supporting our customers by offering a
@@ -68,9 +68,6 @@ sections:
 
       If you have any questions or need further assistance regarding
       cancellations or refunds, please reach out to our Customer Service team.
-
-
-
     actions: []
     colors: bg-light-fg-dark
     styles:
