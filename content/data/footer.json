@@ -20,6 +20,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Play",
+                "altText": "Play",
+                "url": "/terms",
+                "showIcon": true,
+                "icon": "play",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
