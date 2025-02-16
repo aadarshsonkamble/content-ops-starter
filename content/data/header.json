@@ -31,17 +31,6 @@
         },
         {
             "type": "Link",
-            "label": "Cancellations & Refunds",
-            "altText": "",
-            "url": "/cancellations-&-refunds",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "Shipping Policy",
             "altText": "",
             "url": "/shipping-policy",
