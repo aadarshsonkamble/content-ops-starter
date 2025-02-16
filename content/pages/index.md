@@ -626,7 +626,7 @@ sections:
     items:
       - title: Starter Plan – $299/month
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Description
         text: >+
           *   Ideal for emerging brands looking to establish an online presence.
 
