@@ -7,7 +7,7 @@ sections:
       text: Unlock your business growth
       color: text-dark
       type: TitleBlock
-    subtitle: Affordable marketing
+    subtitle: Affordable Marketing At Hand
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
