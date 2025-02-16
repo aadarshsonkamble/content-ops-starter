@@ -23,7 +23,7 @@
         {
             "label": "Terms and Conditions",
             "altText": "Terms and Conditions",
-            "url": "/terms",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
