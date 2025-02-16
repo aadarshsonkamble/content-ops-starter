@@ -332,9 +332,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      We design and build intelligent, multi-platform bots (including our
+      signature Discord bot) that automate tasks, improve customer interactions,
+      and streamline your operations. Our custom bots are tailored to your
+      specific needs, helping you boost efficiency and engagement across various
+      platforms.
+
     actions:
       - label: Get started
         url: /
