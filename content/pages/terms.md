@@ -8,8 +8,8 @@ sections:
       text: Terms and Conditions
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
-      *Last updated: \[Insert Date]*
+    text: >
+      *Last updated: 16/2/2025*
 
 
       Welcome to CutCraft. By accessing our website and using our services, you
@@ -108,9 +108,6 @@ sections:
 
       By using our website and services, you acknowledge that you have read,
       understood, and agree to be bound by these Terms and Conditions.
-
-
-
     actions: []
     colors: bg-light-fg-dark
 slug: terms
