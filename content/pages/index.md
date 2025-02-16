@@ -654,7 +654,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Professional Plan – $699/month
-        tagline: This is the tagline
+        tagline: Growthbooster
         subtitle: Description
         text: >+
           *   Perfect for growing businesses aiming to boost engagement and
