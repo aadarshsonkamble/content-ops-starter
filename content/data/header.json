@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/cutcraft.co.in",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,7 +23,7 @@
         {
             "label": "Terms and Conditions",
             "altText": "Terms and Conditions",
-            "url": "/blog",
+            "url": "/terms",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
