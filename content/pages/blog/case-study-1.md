@@ -118,7 +118,4 @@ CutCraft partnered with a national retail brand to optimize their pay‑per‑cl
 
 **Client Testimonial:**
 *"CutCraft’s PPC expertise transformed our digital advertising. We now see a significant return on every dollar spent."*
-— Marketing Director, Retail Brand
-
-
-
+— Marketing Director, eatter
