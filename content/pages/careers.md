@@ -177,7 +177,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Contact Us
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
   - title:
