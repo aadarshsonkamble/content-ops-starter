@@ -161,7 +161,7 @@ sections:
 
       These Terms and Conditions are governed by the laws of \[Your
       Jurisdiction]. Any disputes arising under these terms shall be resolved
-      exclusively in the courts located in \[Your Jurisdiction].
+      exclusively in the courts located in India.
 
 
       **9. Contact Us**
