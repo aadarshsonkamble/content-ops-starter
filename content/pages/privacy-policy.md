@@ -120,7 +120,7 @@ sections:
       type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       # Privacy Policy
 
