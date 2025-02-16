@@ -61,17 +61,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Contact Us",
-            "altText": "",
-            "url": "/contact-us",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
