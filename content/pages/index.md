@@ -328,7 +328,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: MUltiplatoform bot development
+      text: Multi-Platform bot development
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
