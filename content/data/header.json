@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Cancellations & Refunds",
             "altText": "",
             "url": "/refunds",
             "showIcon": false,
