@@ -655,7 +655,7 @@ sections:
         type: FeaturedItem
       - title: Professional Plan – $699/month
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Description
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
