@@ -328,7 +328,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: MUltiplatoform bot development
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
