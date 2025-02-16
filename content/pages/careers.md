@@ -69,7 +69,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: ''
       color: text-dark
       styles:
         self:
