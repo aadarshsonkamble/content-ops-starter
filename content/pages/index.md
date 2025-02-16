@@ -685,7 +685,7 @@ sections:
         type: FeaturedItem
       - title: Enterprise Plan – Custom Pricing
         tagline: Custom
-        subtitle: This is the item subtitle
+        subtitle: Description
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
