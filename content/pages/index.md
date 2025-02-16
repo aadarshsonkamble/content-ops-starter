@@ -656,8 +656,16 @@ sections:
       - title: Professional Plan – $699/month
         tagline: This is the tagline
         subtitle: Description
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          *   Perfect for growing businesses aiming to boost engagement and
+          conversions.
+
+
+          *   Offers advanced SEO, PPC management, comprehensive social media
+          campaigns, and monthly performance reports.
+
+
+
         image:
           altText: Placeholder image
           styles:
