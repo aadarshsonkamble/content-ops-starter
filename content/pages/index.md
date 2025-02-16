@@ -728,7 +728,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Contact Us
+      text: Contact Form
       color: text-dark
       type: TitleBlock
     subtitle: Any feedback?
