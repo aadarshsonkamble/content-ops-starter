@@ -683,7 +683,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Enterprise Plan – Custom Pricing
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
