@@ -120,7 +120,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       # Shipping and Delivery Policy
 
@@ -170,7 +170,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Contact Us
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
 slug: shipping-policy
