@@ -624,7 +624,7 @@ sections:
       type: TitleBlock
     subtitle: Plans selection
     items:
-      - title: Feature Item One
+      - title: Starter Plan – $299/month
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
