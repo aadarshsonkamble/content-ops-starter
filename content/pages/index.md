@@ -290,7 +290,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Video editing
     text: >+
 
       Our creative team transforms raw footage into captivating visual stories.
