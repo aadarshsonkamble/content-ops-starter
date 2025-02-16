@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Affordable Marketing At Hand
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      CutCraft is a cutting-edge digital marketing and web development agency
+      that creates innovative solutions—ranging from modern websites and
+      branding to multi-platform bots—to help businesses grow and thrive.
+
+
+
     actions:
       - label: Get started
         altText: ''
