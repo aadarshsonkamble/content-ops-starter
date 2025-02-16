@@ -627,8 +627,15 @@ sections:
       - title: Starter Plan – $299/month
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   Ideal for emerging brands looking to establish an online presence.
+
+
+          *   Includes basic social media management, a foundational SEO audit,
+          and content strategy guidance.
+
+
+
         image:
           altText: Placeholder Image
           styles:
