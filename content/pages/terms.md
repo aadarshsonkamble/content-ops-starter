@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Terms and Conditions
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       *Last updated: 16/2/2025*
 
