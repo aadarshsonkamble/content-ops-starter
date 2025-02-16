@@ -15,7 +15,7 @@
         "links": [
             {
                 "label": "Terms and Conditions",
-                "url": "/blog",
+                "url": "/terms",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
