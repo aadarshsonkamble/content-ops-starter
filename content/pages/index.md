@@ -372,9 +372,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Our digital marketing solutions are data-driven and strategically tailored
+      to your business. We offer services ranging from SEO and PPC campaigns to
+      social media management and content marketing, ensuring your brand reaches
+      the right audience and achieves sustainable growth.
+
+
+      Each service is designed to work harmoniously, ensuring a cohesive digital
+      strategy that propels your business forward.
+
+
+
     actions:
       - label: Get started
         url: /
