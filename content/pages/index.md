@@ -434,7 +434,7 @@ sections:
           At CutCraft, we turn innovative ideas into powerful digital
           experiences that resonate and drive growth."
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: CutCraft
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
