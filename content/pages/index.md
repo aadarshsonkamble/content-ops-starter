@@ -97,10 +97,9 @@ sections:
               borderRadius: x-large
       - title: 10x Growth
         subtitle: Expert Digital Marketing
-        text: >+
-          **Expert Digital Marketing**: Helping brands boost visibility and
-          engagement while optimizing ad spending.
-
+        text: >
+          Helping brands boost visibility and engagement while optimizing ad
+          spending.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
