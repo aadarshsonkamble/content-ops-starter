@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: cancellations & refunds
+title: Cancellations & Refunds
 sections:
   - type: PricingSection
     title:
