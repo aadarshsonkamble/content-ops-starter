@@ -75,45 +75,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      Last updated: [Insert Date]Welcome to CutCraft. By accessing our website
-      and using our services, you agree to be bound by these Terms and
-      Conditions. If you do not agree with any part of these terms, please do
-      not use our website or services.1. IntroductionCutCraft is a digital
-      marketing, web development, bot development, and video editing agency. We
-      provide tailored solutions to help your business grow. These Terms and
-      Conditions govern your use of our website and the services we offer.2.
-      ServicesOur services include, but are not limited to:Digital Marketing
-      (SEO, SEM, social media ads, content marketing, etc.)Website Development
-      and OptimizationCustom Bot DevelopmentProfessional Video EditingDetailed
-      descriptions of our services can be found on our website. By purchasing
-      our services, you agree to the terms set forth herein.3. No Refund
-      PolicyAll sales are final. Once services have been rendered or a project
-      has begun, no refunds will be issued. Please review your order details
-      carefully before confirming your purchase.4. Intellectual PropertyAll
-      content, designs, graphics, and software provided on our website are the
-      property of CutCraft or its licensors. Unauthorized use or reproduction of
-      our intellectual property is prohibited.5. User ResponsibilitiesYou agree
-      to use our services only for lawful purposes.You must not attempt to gain
-      unauthorized access to our systems or interfere with the operation of our
-      website.You are responsible for maintaining the confidentiality of any
-      account information and for all activities that occur under your
-      account.6. Limitation of LiabilityCutCraft shall not be liable for any
-      indirect, incidental, consequential, or punitive damages arising from the
-      use of our services. Our total liability in connection with your use of
-      our services shall not exceed the amount you paid for the service in
-      question.7. Modifications to These TermsWe reserve the right to modify
-      these Terms and Conditions at any time. Any changes will be posted on this
-      page and become effective immediately upon posting. Your continued use of
-      our website and services after any such changes constitutes your
-      acceptance of the updated terms.8. Governing LawThese Terms and Conditions
-      are governed by the laws of [Your Jurisdiction]. Any disputes arising
-      under these terms shall be resolved exclusively in the courts located in
-      [Your Jurisdiction].9. Contact UsIf you have any questions about these
-      Terms and Conditions, please contact our support team
-      at:cutcraftllp@gmail.comBy using our website and services, you acknowledge
-      that you have read, understood, and agree to be bound by these Terms and
-      Conditions.
+    subtitle: ''
     items:
       - title: Account Executive
         subtitle: Sales
