@@ -36,7 +36,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Privacy Polilcy",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
