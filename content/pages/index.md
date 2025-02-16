@@ -325,14 +325,7 @@ sections:
       signature Discord bot) that automate tasks, improve customer interactions,
       and streamline your operations
 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
