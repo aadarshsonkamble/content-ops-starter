@@ -58,7 +58,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "/cancellations-&-refunds",
+                    "label": "Cancellations & Refunds",
                     "altText": "",
                     "url": "/cancellations-&-refunds",
                     "showIcon": false,
