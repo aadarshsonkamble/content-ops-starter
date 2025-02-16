@@ -42,7 +42,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Shipping Policy",
             "altText": "",
             "url": "/shipping",
             "showIcon": false,
