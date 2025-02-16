@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Cancellations & Refunds",
             "altText": "",
-            "url": "/refunds",
+            "url": "/cancellations-&-refunds",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
