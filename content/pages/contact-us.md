@@ -121,11 +121,13 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      You may contact us using the information below: Merchant Legal entity
+      name: CutCraft Registered Address: Siddharth nagar, Dapodi, Pune Pune
+      MAHARASHTRA 411012 Operational Address: Siddharth nagar, Dapodi, Pune Pune
+      MAHARASHTRA 411012 Telephone No: 9970571976 E-Mail ID:
+      cutcraftllp\@gmail.com
+
     actions: []
     media:
       type: FormBlock
