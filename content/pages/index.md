@@ -4,14 +4,17 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlock your team boost your time to production
+      text: Unlock your business growth
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Affordable Marketing At Hand
+    text: >+
+      CutCraft is a cutting-edge digital marketing and web development agency
+      that creates innovative solutions—ranging from modern websites and
+      branding to multi-platform bots—to help businesses grow and thrive.
+
+
+
     actions:
       - label: Get started
         altText: ''
@@ -37,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: why cutcraft?
       color: text-primary
       type: Badge
     elementId: ''
@@ -63,11 +66,13 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Comprehensive Digital Marketing Strategy
+        text: >+
+
+          We craft data-driven campaigns that boost brand visibility,
+          engagement, and ROI through tailored strategies across SEO, social
+          media, and paid advertising.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +95,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 10x Growth
+        subtitle: Expert Digital Marketing
+        text: >
+          Helping brands boost visibility and engagement while optimizing ad
+          spending.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +119,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: 200% faster responses
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Creating fast, responsive, and custom websites aimed at driving
+          conversions.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Not just marketing
       color: text-primary
       styles:
         self:
@@ -235,12 +239,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Mission
+    text: >+
+
+      CutCraft’s mission is to empower businesses by transforming their digital
+      presence—whether through dynamic websites, impactful branding, or
+      intelligent bots—so they can achieve sustainable growth, increased
+      efficiency, and a competitive edge in the ever-evolving online landscape.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -278,18 +284,20 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Video editing services
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Increase your visibility
+    text: >+
+
+      Our creative team transforms raw footage into captivating visual stories.
+      We provide professional video editing services that enhance your brand
+      message—whether it’s for promotional videos, social media content, or
+      corporate presentations—ensuring your audience stays engaged.
+
     actions: []
     media:
       title: Title of the video
@@ -320,13 +328,21 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Web development / bot devlopment
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+
+      CutCraft develops modern, responsive websites that are optimized for
+      performance and conversions.
+
+
+
+      We design and build intelligent, multi-platform bots (including our
+      signature Discord bot) that automate tasks, improve customer interactions,
+      and streamline your operations
+
     actions:
       - label: Get started
         url: /
@@ -346,7 +362,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -355,13 +371,22 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Digital Marketing
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Our digital marketing solutions are data-driven and strategically tailored
+      to your business. We offer services ranging from SEO and PPC campaigns to
+      social media management and content marketing, ensuring your brand reaches
+      the right audience and achieves sustainable growth.
+
+
+      Each service is designed to work harmoniously, ensuring a cohesive digital
+      strategy that propels your business forward.
+
+
+
     actions:
       - label: Get started
         url: /
@@ -381,7 +406,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -405,14 +430,12 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Marketing is the art of creating value through authentic connections.
+          At CutCraft, we turn innovative ideas into powerful digital
+          experiences that resonate and drive growth."
+        tagline: ''
+        subtitle: 'CEO, CutCraft'
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -435,7 +458,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +488,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +548,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +578,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -589,21 +616,27 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Pricing
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Plans selection
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Starter Plan – $299/month
+        tagline: Just try
+        subtitle: Description
+        text: >+
+          *   Ideal for emerging brands looking to establish an online presence.
+
+
+          *   Includes basic social media management, a foundational SEO audit,
+          and content strategy guidance.
+
+
+
         image:
-          url: /images/abstract-feature1.svg
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +653,20 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Professional Plan – $699/month
+        tagline: Growth booster
+        subtitle: Description
+        text: >+
+          *   Perfect for growing businesses aiming to boost engagement and
+          conversions.
+
+
+          *   Offers advanced SEO, PPC management, comprehensive social media
+          campaigns, and monthly performance reports.
+
+
+
         image:
-          url: /images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
@@ -643,13 +683,21 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Enterprise Plan – Custom Pricing
+        tagline: Custom
+        subtitle: Description
+        text: >+
+          *   Tailored for established brands requiring a full-scale digital
+          marketing strategy.
+
+
+          *   Provides end-to-end services including in-depth analytics,
+          multi-channel advertising, content marketing, and dedicated account
+          management.
+
+
+
         image:
-          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
@@ -680,15 +728,12 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Contact Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Any feedback?
+    text: |
+      Want to collaborate? Contact Us
     media:
       fields:
         - name: name
@@ -733,7 +778,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: CUtCraft
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
