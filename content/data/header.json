@@ -44,7 +44,7 @@
             "type": "Link",
             "label": "Shipping Policy",
             "altText": "",
-            "url": "/shipping",
+            "url": "/shipping-policy",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
