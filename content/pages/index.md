@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Not just marketing
       color: text-primary
       styles:
         self:
