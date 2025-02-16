@@ -24,7 +24,7 @@
             {
                 "type": "Link",
                 "label": "Play",
-                "altText": "Play",
+                "altText": "Terms and Conditions",
                 "url": "/terms",
                 "showIcon": true,
                 "icon": "play",
