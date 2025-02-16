@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: /cancellations& refunds
+title: cancellations & refunds
 sections: []
 slug: cancellations-&-refunds
 isDraft: false
