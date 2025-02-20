@@ -227,7 +227,7 @@ sections:
         title: Iteration Methods
         subtitle: ''
         text: |+
-          Iteration Methods
+
 
           1.  **Revisit the prompting framework**
 
