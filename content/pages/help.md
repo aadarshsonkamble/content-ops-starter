@@ -72,13 +72,11 @@ sections:
         subtitle: |-
           Framework 
           Breakdown
-        text: |2+
-
-           "Present the plan in a table format with columns for 
-          platform, content type, and key message. Include 
-          engagement hooks for each piece. Keep individual 
-          posts under 200 characters."
-
+        text: |
+          **"Present the plan in a table format with columns for
+          platform, content type, and key message. Include
+          engagement hooks for each piece. Keep individual
+          posts under 200 characters."**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
