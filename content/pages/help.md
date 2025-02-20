@@ -207,7 +207,7 @@ sections:
         title: Task Context Reference Evaluate Iterate
         subtitle: ''
         text: >
-          Examples with this framework:  
+          Examples with this framework:
 
 
           1.  **Write a social media post featuring this image. The post should
@@ -220,6 +220,17 @@ sections:
           M/W/F Cardio Blast class changed from 7:00am to 6:00am. Make the email
           professional and friendly. and short so that the readers can skim it
           quickly.**
+
+
+          3\. **I'm a marketer for a well-known video game producer known for
+          creating immersive story-based online video games. I'm planning the
+          launch of a new medieval fantasy roleplaying  game taht follows the
+          path of a young protagonist searching for their missing parter. the
+          game's primary audience is young adults. The game is reaching the end
+          stages of development, and I need help creating a timeline before it
+          goes live. PRovide a rought timeline for the year leading up to its
+          launch. Also, Provide some pre-launch ideas to help generate buzz
+          around the game.**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
