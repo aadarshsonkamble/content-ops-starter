@@ -245,11 +245,11 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Evaluate Suitability: Ensure AI fits the task and doesn't reinforce
-      harmful biases.Get Approval: Obtain company concent before using AI on
-      projects.Protect Privacy: Use secure tools and avoid exposing sensitive
-      data.Validate Outputs: Review all AI-generated content before sharing.Be
-      Transparent: Disclose AI use to teams and clients.
+      1) Evaluate Suitability: Ensure AI fits the task and doesn't reinforce
+      harmful biases.2) Get Approval: Obtain company concent before using AI on
+      projects.3) Protect Privacy: Use secure tools and avoid exposing sensitive
+      data.4) Validate Outputs: Review all AI-generated content before
+      sharing.5) Be Transparent: Disclose AI use to teams and clients.
     items:
       - type: FeaturedItem
         title: Account Executive
