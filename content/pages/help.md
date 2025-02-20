@@ -223,6 +223,26 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Task Context Reference Evaluate Iterate
+        subtitle: Sales
+        text: >
+          eg. **Write a social media post featuring this image. The post should
+          be fun, short, and focus on the fact that it's a colelction of new
+          designs I'm selling. (**with reference attached**)**
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
     actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
