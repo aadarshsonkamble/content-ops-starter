@@ -224,10 +224,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          Iteration Methods1. Revisit the prompting framework2. Separate prompts
-          into shorter sentences3. Trying different phrasing or switching or an
-          analog task4. Introduce contraints
+        title: Iteration
         subtitle: Sales
         text: >
           eg. **Write a social media post featuring this image. The post should
