@@ -116,10 +116,15 @@ sections:
         subtitle: |-
           Framework 
           Breakdown
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2+
+           →
+           "You're a senior Python instructor. Create a step-by
+          step learning plan for data structures, including
+           Practice exercises for lists and dictionarie
+           Real-world examples using panda
+           Common pitfalls to avoid"
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
