@@ -226,10 +226,17 @@ sections:
       - type: FeaturedItem
         title: Iteration Methods
         subtitle: Sales
-        text: >
-          eg. **Write a social media post featuring this image. The post should
-          be fun, short, and focus on the fact that it's a colelction of new
-          designs I'm selling. (**with reference attached**)**
+        text: |+
+          Iteration Methods
+
+          1.  **Revisit the prompting framework**
+
+          2.  **Separate prompts into shorter sentences**
+
+          3.  **Trying different phrasing or switching or an analog task**
+
+          4.  **Introduce contraints**
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
