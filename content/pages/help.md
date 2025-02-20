@@ -104,7 +104,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Best Prompts
+      text: Tip for prompts
       color: text-dark
       styles:
         self:
