@@ -252,41 +252,6 @@ sections:
       sharing.5) Be Transparent: Disclose AI use to teams and clients.
     items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >+
-          1.  **Evaluate Suitability: Ensure AI fits the task and doesn't
-          reinforce harmful biases.**
-
-
-          2.  **Get Approval: Obtain company concent before using AI on
-          projects.**
-
-
-          3.  **Protect Privacy: Use secure tools and avoid exposing sensitive
-          data.**
-
-
-          4.  **Validate Outputs: Review all AI-generated content before
-          sharing.**
-
-
-          5.  **Be Transparent: Disclose AI use to teams and clients.**
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
         text: >-
