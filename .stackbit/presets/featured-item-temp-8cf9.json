@@ -1,0 +1,42 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "temp",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "temp"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Task Context Reference Evaluate Iterate",
+                "tagline": null,
+                "subtitle": "Sales",
+                "text": "eg. **Write a social media post featuring this image. The post should be fun, short, and focus on the fact that it's a colelction of new designs I'm selling. (**with reference attached**)**\n",
+                "image": null,
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "x-large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-temp-8cf9.png"
+        }
+    ]
+}
