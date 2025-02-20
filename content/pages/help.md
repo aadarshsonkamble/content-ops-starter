@@ -81,7 +81,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Set the Stage (Context)
-        subtitle: Sales
+        subtitle: fdf
         text: |+
           *   Tell the AI who it's talking to
 
