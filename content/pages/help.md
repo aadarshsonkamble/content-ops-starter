@@ -112,7 +112,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Define the Task (Action)
         subtitle: |-
           Framework 
           Breakdown
