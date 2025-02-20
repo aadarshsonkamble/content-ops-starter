@@ -249,10 +249,23 @@ sections:
       - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          1.  Evaluate Suitability: Ensure AI fits the task and doesn't
+          reinforce harmful biases.
+
+
+          2.  Get Approval: Obtain company concent before using AI on projects.
+
+
+          3.  Protect Privacy: Use secure tools and avoid exposing sensitive
+          data.
+
+
+          4.  Validate Outputs: Review all AI-generated content before sharing.
+
+
+          5.  Be Transparent: Disclose AI use to teams and clients.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
