@@ -231,6 +231,22 @@ sections:
           goes live. PRovide a rought timeline for the year leading up to its
           launch. Also, Provide some pre-launch ideas to help generate buzz
           around the game.**
+
+
+          4\. **I have 10 employees. Theri employee numbers are 1 through 10.
+          Create a table that tracks weekly staffing. Create columns for day,
+          name and shift (morning or afternoon).
+
+          morning shift and 2 employees scheduled for the afternoon shift.
+
+          -Employees should not be scheduled for a morning shift on the
+          following day after they werer scheduled for an afternoon shift.
+
+          -Employees shoudl not be scheduled for both the morning and afternoon
+          shifts on the same day.
+
+          -Every employee shoudl have roughtly the same number of the total
+          shifts per week**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
