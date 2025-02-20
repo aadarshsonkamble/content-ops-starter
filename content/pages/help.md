@@ -136,10 +136,13 @@ sections:
       - type: FeaturedItem
         title: Add Specific Constraints
         subtitle: Tip
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2
+           "Analyze our customer churn dataset with these 
+          parameters
+           Focus on users inactive > 30 day
+           Compare behavioral patterns pre-chur
+           Include statistical significance test
+           Output visualizations in seaborn
         actions: []
         colors: bg-neutral-fg-dark
         styles:
