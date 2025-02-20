@@ -225,7 +225,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Iteration Methods
-        subtitle: Sales
+        subtitle: ''
         text: |+
           Iteration Methods
 
