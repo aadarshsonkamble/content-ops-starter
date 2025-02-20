@@ -136,7 +136,9 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Specify the Output (Format)
-        subtitle: Engineering
+        subtitle: |-
+          Framework 
+          Breakdown
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
