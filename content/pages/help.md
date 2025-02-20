@@ -115,7 +115,9 @@ sections:
         title: Use Role Assignment
         subtitle: Tip
         text: |
-          Prompt eg: **"As a senior ML engineer specializing in neural networks
+          Prompt eg: 
+
+          **"As a senior ML engineer specializing in neural networks
           Review this PyTorch implementatio
           Identify performance bottleneck
           Suggest optimization strategies for training speed"**
