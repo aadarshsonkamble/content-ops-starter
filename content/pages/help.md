@@ -159,10 +159,13 @@ sections:
       - type: FeaturedItem
         title: Request Examples and Variation
         subtitle: Tip
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2+
+
+           "Provide 2 implementations of this sorting algorithm
+           Optimized for memory efficienc
+           Optimized for processing speed Include time 
+          complexity analysis for each
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
