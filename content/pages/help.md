@@ -250,25 +250,7 @@ sections:
       projects.3) Protect Privacy: Use secure tools and avoid exposing sensitive
       data.4) Validate Outputs: Review all AI-generated content before
       sharing.5) Be Transparent: Disclose AI use to teams and clients.
-    items:
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
+    items: []
     actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
