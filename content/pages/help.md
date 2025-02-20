@@ -206,10 +206,10 @@ sections:
       - type: FeaturedItem
         title: Task Context Reference Evaluate Iterate
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          eg. **Write a social media post featuring this image. The post should
+          be fun, short, and focus on the fact that it's a colelction of new
+          designs I'm selling.**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
