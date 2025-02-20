@@ -114,10 +114,12 @@ sections:
       - type: FeaturedItem
         title: Use Role Assignment
         subtitle: Tip
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+
+          "As a senior ML engineer specializing in neural networks
+           Review this PyTorch implementatio
+           Identify performance bottleneck
+           Suggest optimization strategies for training speed"
         actions: []
         colors: bg-neutral-fg-dark
         styles:
