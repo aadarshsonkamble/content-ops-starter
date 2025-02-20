@@ -82,10 +82,20 @@ sections:
       - type: FeaturedItem
         title: Set the Stage (Context)
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Tell the AI who it's talking to
+
+          *   Define the expertise level needed
+
+          *   Specify any constraints or limitations
+
+              eg, "You're a data scientist analyzing our quarterly sales
+              data. Identify key revenue patterns, create
+              visualizations, and highlight anomalies. Focus on
+              customer segments and regional variations."
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
