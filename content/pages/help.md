@@ -8,7 +8,7 @@ sections:
         title: Set the Stage (Context)
         tagline: Feature 1
         subtitle: Increase your reach
-        text: "1.  Tell the AI who \L\n    it's talking to \n\n2.  Define the \L\n    expertise level\n    needed \n\n3.  Specify any\n    constraints or\n    limitations\n\neg,\n\"You're a data scientist analyzing our quarterly sales\ndata. Identify key revenue patterns, create\nvisualizations, and highlight anomalies. Focus on\ncustomer segments and regional variations.\"\n"
+        text: "1.  Tell the AI who \L\n    it's talking to\n\n2.  Define the \L\n    expertise level\n    needed\n\n3.  Specify any\n    constraints or\n    limitations\n    eg, \"You're a data scientist analyzing our quarterly sales\n    data. Identify key revenue patterns, create\n    visualizations, and highlight anomalies. Focus on\n    customer segments and regional variations.\"\n\n"
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-02-20 162239.jpg
