@@ -5,35 +5,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Set the Stage (Context)
-        tagline: Feature 1
-        subtitle: Increase your reach
-        text: |+
-          1.
-
-          2.
-
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2025-02-20 162239.jpg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
