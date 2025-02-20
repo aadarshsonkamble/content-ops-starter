@@ -72,7 +72,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Prompts
+      text: Framework Breakdown
       color: text-dark
       styles:
         self:
