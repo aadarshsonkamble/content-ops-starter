@@ -196,7 +196,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Best Prompts
+      text: Google prompt framework
       color: text-dark
       styles:
         self:
