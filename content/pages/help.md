@@ -136,9 +136,7 @@ sections:
         title: Add Specific Constraints
         subtitle: Tip
         text: |
-          Prompt eg: 
-
-          **"Analyze our customer churn dataset with these
+          Prompt eg: **"Analyze our customer churn dataset with these
           parameters
           Focus on users inactive > 30 day
           Compare behavioral patterns pre-chur
