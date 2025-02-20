@@ -115,11 +115,10 @@ sections:
         title: Use Role Assignment
         subtitle: Tip
         text: |
-
-          "As a senior ML engineer specializing in neural networks
-           Review this PyTorch implementatio
-           Identify performance bottleneck
-           Suggest optimization strategies for training speed"
+          Prompt eg: **"As a senior ML engineer specializing in neural networks
+          Review this PyTorch implementatio
+          Identify performance bottleneck
+          Suggest optimization strategies for training speed"**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
