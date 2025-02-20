@@ -139,10 +139,13 @@ sections:
         subtitle: |-
           Framework 
           Breakdown
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |2+
+
+           "Present the plan in a table format with columns for 
+          platform, content type, and key message. Include 
+          engagement hooks for each piece. Keep individual 
+          posts under 200 characters."
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
