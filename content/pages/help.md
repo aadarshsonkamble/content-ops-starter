@@ -9,16 +9,9 @@ sections:
         tagline: Feature 1
         subtitle: Increase your reach
         text: |+
-          1.  Tell the AI who it's talking to
+          1.
 
-          2.  Define the expertise level needed
-
-          3.  Specify any constraints or limitations
-
-              eg, "You're a data scientist analyzing our quarterly sales
-              data. Identify key revenue patterns, create
-              visualizations, and highlight anomalies. Focus on
-              customer segments and regional variations."
+          2.
 
         image:
           type: ImageBlock
