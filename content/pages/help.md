@@ -224,7 +224,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Iteration
+        title: Iteration Methods
         subtitle: Sales
         text: >
           eg. **Write a social media post featuring this image. The post should
