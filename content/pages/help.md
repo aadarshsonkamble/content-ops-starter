@@ -91,12 +91,10 @@ sections:
 
           *   Specify any constraints or limitations
 
-              eg, "You're a data scientist analyzing our quarterly sales
+              eg, **"You're a data scientist analyzing our quarterly sales
               data. Identify key revenue patterns, create
               visualizations, and highlight anomalies. Focus on
-              customer segments and regional variations."
-
-
+              customer segments and regional variations."**
 
         actions: []
         colors: bg-neutral-fg-dark
