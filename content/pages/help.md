@@ -239,7 +239,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: AI hallucinations / Biases
       color: text-dark
       styles:
         self:
