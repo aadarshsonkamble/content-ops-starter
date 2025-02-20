@@ -207,9 +207,19 @@ sections:
         title: Task Context Reference Evaluate Iterate
         subtitle: ''
         text: >
-          eg. **Write a social media post featuring this image. The post should
+          Examples with this framework:  
+
+
+          1.  **Write a social media post featuring this image. The post should
           be fun, short, and focus on the fact that it's a colelction of new
-          designs I'm selling. (**with reference attached**)**
+          designs I'm selling. (with reference attached)**
+
+
+          2\. **I"m a gym manager and we have a new gym schedule. Write an email
+          informing our staff of the new schedule. Highlight the fact that the
+          M/W/F Cardio Blast class changed from 7:00am to 6:00am. Make the email
+          professional and friendly. and short so that the readers can skim it
+          quickly.**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
