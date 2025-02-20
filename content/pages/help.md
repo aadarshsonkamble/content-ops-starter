@@ -162,13 +162,13 @@ sections:
       - type: FeaturedItem
         title: Request Examples and Variation
         subtitle: Tip
-        text: |2+
+        text: |
+          Prompt eg: 
 
-           "Provide 2 implementations of this sorting algorithm
-           Optimized for memory efficienc
-           Optimized for processing speed Include time 
-          complexity analysis for each
-
+          **"Provide 2 implementations of this sorting algorithm
+          Optimized for memory efficienc
+          Optimized for processing speed Include time
+          complexity analysis for each**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
