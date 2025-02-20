@@ -8,10 +8,7 @@ sections:
         title: Set the Stage (Context)
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "\nTell the AI who \L\n it's talking to\n\n\nDefine the \L\n expertise level \nneeded\n\n\nSpecify any \nconstraints or \nlimitations\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-02-20 162239.jpg
