@@ -205,7 +205,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Task Context Reference Evaluate Iterate
-        subtitle: Sales
+        subtitle: ''
         text: >
           eg. **Write a social media post featuring this image. The post should
           be fun, short, and focus on the fact that it's a colelction of new
