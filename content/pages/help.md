@@ -116,15 +116,13 @@ sections:
         subtitle: |-
           Framework 
           Breakdown
-        text: |2+
-           →
-           "You're a senior Python instructor. Create a step-by
+        text: |
+          →
+          **"You're a senior Python instructor. Create a step-by
           step learning plan for data structures, including
-           Practice exercises for lists and dictionarie
-           Real-world examples using panda
-           Common pitfalls to avoid"
-
-
+          Practice exercises for lists and dictionarie
+          Real-world examples using panda
+          Common pitfalls to avoid"**
         actions: []
         colors: bg-neutral-fg-dark
         styles:
